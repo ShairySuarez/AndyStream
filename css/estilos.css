@@ -116,6 +116,8 @@ body{
 @media screen and (max-width: 900px){
 	.products-list .product-item{
 		width: 25%;
+		padding-left: auto;
+		font-size: 10px;
 	}
 	.category_list{
 		width: 20%;
@@ -153,11 +155,6 @@ body{
 
 	.uwu > h1{
 	font-size: large;
-	}
-	
-	.products-list .product-item{
-		padding-left: auto;
-		font-size: 10px;
 	}
 
 	.products-list .product-item:nth-child(3n+1){

@@ -130,7 +130,6 @@ body{
 	background: #E84C3D;
 	text-align: center;
 	text-decoration: none;
-	text-size: 10px; 
 	color: #fff;
 	box-sizing: border-box;
 	}
@@ -141,6 +140,9 @@ body{
 	flex-direction: column;
 	text-align: center;
 	margin: 0px 0px;
+	}
+	.a{
+	font-size: 0.875 em;
 	}
 }
 

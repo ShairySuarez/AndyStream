@@ -119,6 +119,14 @@ body{
 		padding-left: 2%;
 		box-sizing: border-box;
 	}
+	.uwu > h1{
+	color: #494B4D;
+	font-weight: 200;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 0px 0px;
+}
 }
 
 @media screen and (max-width: 900px){

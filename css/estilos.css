@@ -115,7 +115,7 @@ body{
 
 @media screen and (max-width: 900px){
 	.products-list .product-item{
-		width: 50%;
+		width: 25%;
 	}
 	.category_list{
 		width: 20%;
@@ -153,7 +153,7 @@ body{
 
 	.uwu > h1{
 	font-size: large;
-}
+	}
 	
 	.products-list .product-item{
 		padding-left: auto;

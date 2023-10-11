@@ -116,6 +116,7 @@ body{
 @media screen and (max-width: 900px){
 	.products-list .product-item{
 		width: 25%;
+		margin-left: 6%;
 		padding-left: auto;
 		font-size: 10px;
 		display: flex;

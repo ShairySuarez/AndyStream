@@ -118,9 +118,20 @@ body{
 		width: 50%;
 	}
 	.category_list{
-		width: 30%;
-		padding-left: 5%;
+		width: 20%;
+		padding-left: 3%;
 		box-sizing: border-box;
+	}
+	.category_list .category_item{
+	display: block;
+	width: 70%;
+	padding: 15px 0;
+	margin-bottom: 20px;
+	background: #E84C3D;
+	text-align: center;
+	text-decoration: none;
+	color: #fff;
+	box-sizing: border-box;
 	}
 	.uwu > h1{
 	color: #494B4D;
@@ -129,7 +140,7 @@ body{
 	flex-direction: column;
 	text-align: center;
 	margin: 0px 0px;
-}
+	}
 }
 
 @media screen and (max-width: 900px){

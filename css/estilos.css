@@ -9,10 +9,6 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
-.a{
-	font-size: 5px;
-}
-
 .wrap{
 	width: 100%;
 	max-width: 1000px;
@@ -67,7 +63,7 @@ body{
 	margin-bottom: 20px;
 	background: #E84C3D;
 	text-align: center;
-	font-size: 0.5 rem;
+	font-size: 5px;
 	text-decoration: none;
 	color: #fff;
 	box-sizing: border-box;

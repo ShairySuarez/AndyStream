@@ -149,6 +149,12 @@ body{
 		width: 85%;
 		padding-right: 2%;
 		margin-left: 10%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		align-self: flex-start;
+
+		transition: all .4s;
 	}
 
 	.uwu > h1{

@@ -154,6 +154,7 @@ body{
 	.products-list .product-item{
 		width: 30%;
 		padding-left: auto;
+		font-size: 10px;
 	}
 
 	.products-list .product-item:nth-child(3n+1){

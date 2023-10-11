@@ -118,7 +118,7 @@ body{
 		width: 50%;
 	}
 	.category_list{
-		width: 15%;
+		width: 20%;
 		padding-left: 3%;
 		box-sizing: border-box;
 	}
@@ -146,9 +146,9 @@ body{
 
 @media screen and (max-width: 900px){
 	.products-list{
-		width: 85%;
-		padding-right: 5%;
-		margin-left: 5%;
+		width: 80%;
+		padding-right: 0%;
+		margin-left: 10%;
 		display: flex;
 		flex-direction: column;
 		align-items: center;

@@ -161,7 +161,7 @@ body{
 	font-size: large;
 	}
 
-	.products-list .product-item:nth-child(3n+1){
+	.products-list .product-item:nth-child(2.5n+1){
 		margin-left: 0px;
 	}
 

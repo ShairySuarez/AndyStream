@@ -163,6 +163,10 @@ body{
 		margin-left: 0px;
 	}
 
+	.category_list .category_item{
+		background: #a01306;
+	}
+	
 	.products-list .product-item a{
 		display: block;
 		width: 100%;

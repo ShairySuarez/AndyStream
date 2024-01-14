@@ -1,8 +1,8 @@
 Swal.fire({
-    title: "FELIZ NAVIDAD!!",
-    text: "Te Desea AndyStream",
-    imageUrl: "images/Kawai.gif",
-    imageWidth: 400,
+    title: "SERVICIOS DE STREAMING",
+    text: "BIENVENIDO",
+    imageUrl: "images/Logo.jpg",
+    imageWidth: 200,
     imageHeight: 200,
     imageAlt: "Custom image"
   });

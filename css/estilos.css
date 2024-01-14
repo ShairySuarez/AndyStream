@@ -22,22 +22,18 @@ body{
 	max-width: 1100px;
 	width: 90%;
 	margin: auto;
-	background-color: #E0E4E5;
 }
 
 .uwu > h1{
 	color: #494B4D;
-	font-weight: 200;
+	font-weight: 700;
 	display: flex;
 	flex-direction: column;
 	text-align: center;
 	margin: 0px 0px;
-	padding-left: 20%;
-	basefont-size: 2;
 }
 
 .uwu > h1:after{
-	max-height: max-content;
 	content: '';
 	width: 100%;
 	height: 1px;
@@ -63,7 +59,7 @@ body{
 	width: 90%;
 	padding: 15px 0;
 	margin-bottom: 20px;
-	background: #E84C3D;
+	background: #a01306;
 	text-align: center;
 	text-decoration: none;
 	color: #fff;
@@ -86,7 +82,7 @@ body{
 
 
 .products-list .product-item{
-	width: 15%;
+	width: 22%;
 	margin-left: 3%;
 	margin-bottom: 25px;
 	box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.22);
@@ -107,7 +103,7 @@ body{
 	display: block;
 	width: 100%;
 	padding: 8px 0;
-	background: #2D3E50;
+	background:  #2D3E50;
 	color: #fff;
 	text-align: center;
 	text-decoration: none;
@@ -117,52 +113,30 @@ body{
 
 @media screen and (max-width: 900px){
 	.products-list .product-item{
-		width: 25%;
-		margin-left: 6%;
-		padding-left: auto;
-		font-size: 10px;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
+		width: 50%;
 	}
 	.category_list{
-		width: 20%;
-		padding-left: 3%;
+		width: 25%;
+		padding-left: 2%;
 		box-sizing: border-box;
-	}
-	.category_list .category_item{
-	display: block;
-	width: 90%;
-	padding: 15px 0;
-	margin-bottom: 20px;
-	background: #E84C3D;
-	text-align: center;
-	text-decoration: none;
-	font-size: 10px;
-	color: #fff;
-	box-sizing: border-box;
-	}
-	.uwu > h1{
-	color: #494B4D;
-	font-weight: 20;
-	display: flex;
-	flex-direction: column;
-	text-align: center;
-	margin: 0px 0px;
 	}
 }
 
 @media screen and (max-width: 900px){
 	.products-list{
 		width: 80%;
-		padding-right: 2%;
+		padding-right: 5%;
 		margin-left: 25%;
 	}
 
-	.uwu > h1{
-	font-size: large;
+	.products-list .product-item{
+		width: 30%;
+		padding-left: auto;
 	}
 
+	.category_list .category_item{
+		background: #a01306;
+	}
 	.products-list .product-item:nth-child(2.5n+1){
 		margin-left: 0px;
 	}

@@ -5,8 +5,10 @@
 }
 
 body{
-	background: #E0E4E5;
 	font-family: 'Open Sans', sans-serif;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 .wrap{
